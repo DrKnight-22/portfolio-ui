@@ -4,7 +4,7 @@ export default function Projects() {
       id: 1,
       title: 'VN GMRC/ESP System',
       description: 'Values Education Monitoring Platform',
-      image: 'src/assets/website1.png',
+      image: 'public/website1.png',
       technologies: ['React', 'Node.js', 'Supabse DB'],
       link: 'https://teacher-gamedashboard.vercel.app/'
     },

@@ -4,7 +4,7 @@ export default function About() {
       <h2 className="section-title">About Me</h2>
       <div className="about-content">
         <div className="about-image">
-          <img src="src/assets/pic2.JPG" alt="Val Wenie B. Macua" />
+          <img src="public/pic2.JPG" alt="Val Wenie B. Macua" />
         </div>
         <div className="about-text">
           <h2>Web Developer</h2>

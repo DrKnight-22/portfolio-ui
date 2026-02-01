@@ -1,22 +1,22 @@
 export default function Gallery() {
   const images = [
     {
-      url: 'src/assets/pic1.JPG',
+      url: 'public/pic1.JPG',
       title: 'Project UI Design',
       description: 'Modern dashboard interface'
     },
     {
-      url: 'src/assets/pic2.JPG',
+      url: 'public/pic2.JPG',
       title: 'Mobile App Screens',
       description: 'Cross-platform application'
     },
     {
-      url: 'src/assets/pic3.jpg',
+      url: 'public/pic3.jpg',
       title: 'Brand Identity',
       description: 'Logo and brand materials'
     },
     {
-      url: 'src/assets/pic4.jpg',
+      url: 'public/pic4.jpg',
       title: 'Web Application',
       description: 'Full-stack project'
     },

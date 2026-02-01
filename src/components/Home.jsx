@@ -10,19 +10,19 @@ export default function Home() {
     {
       id: 1,
       title: "E-Commerce Platform",
-      url: "src/assets/pic1.JPG",
+      url: "public/pic1.JPG",
       link: "/projects/ecommerce"
     },
     {
       id: 2,
       title: "Task Management App", 
-      url: "src/assets/pic2.JPG",
+      url: " public/pic2.JPG   ",
       link: "/projects/task-manager"
     },
     {
       id: 3,
       title: "Weather Dashboard",
-      url: "src/assets/pic4.jpg",
+      url: "public/pic4.jpg",
       link: "/projects/weather-app"
     }
   ];
